@@ -4,7 +4,7 @@ Automatic system withn AI for forex investments based on scalping
 
  client from Brazil\
  python \
- library mql4,  mql5, nltk, textblob, Hugging Face Transformers, yfinance, opencv , llm, cnn, rnn, randomforest, backtrader/vectorbt,scikit-learn and tensorflow\ 
+ library mql4,  mql5, nltk, textblob, Hugging Face Transformers, yfinance, opencv,llm, cnn, rnn,randomforest,backtrader/vectorbt,scikit-learn and tensorflow \ 
  development time 5 week
  
 
