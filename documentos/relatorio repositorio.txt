@@ -1,0 +1,24 @@
+
+
+elaboracao relatorio 22/03/2021 14 hrs
+
+news_rob    --->  reading political news (pc sound)
+news_robv1  --->  webscrap political news 
+news_robv2  --->  webscrap economic news beatifulsoup error                   (https://www.fxstreet.com)
+news_robv2_1 --->  webscrap economic news beatifulsoup error		      (https://www.fxstreet.com)
+news_robv2_2 --->  webscrap economic news beatifulsoup error		      (https://www.fxstreet.com)
+news_robv2_3 ---> better trim extra information				      (https://www.fxstreet.com)
+news_robv2_4 ---> better trim extra information				      (https://www.fxstreet.com)
+news_robv2_5 ---> better trim extra information				      (https://www.fxstreet.com)
+news_robv2_6 ---> better trim extra information	(pc sound)       	      (https://www.fxstreet.com)
+news_robv3 --->  webscrap economic news beatifulsoup without output            (www.newsnow.co.uk)
+news_robv3_1 --->  webscrap economic news beatifulsoup statemet error          (www.newsnow.co.uk)
+news_robv3_2 --->  webscrap economic news exitoso --remove multiple jam output (www.newsnow.co.uk)
+news_robv3_3 --->  webscrap economic news exitoso --remove multiple jam output (www.newsnow.co.uk)
+news_robv3_4 --->  webscrap economic news exitoso --remove multiple jam output (www.newsnow.co.uk)
+news_robv3_5 --->  webscrap economic news exitoso --remove multiple jam output (www.newsnow.co.uk)
+news_robv3_6 --->  webscrap economic news exitoso --remove multiple jam output (www.newsnow.co.uk)
+news_robv3_7 --->  webscrap economic news exitoso (pc sound)                   (www.newsnow.co.uk)
+news_robv4 --->  webscrap economic news beatifulsoup without output            (www.bloomberg.co.uk)
+
+

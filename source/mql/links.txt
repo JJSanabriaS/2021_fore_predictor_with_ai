@@ -1,0 +1,20 @@
+Best scalping strategies
+
+1.Stochastic oscillator strategy
+2.Moving average strategy
+3.Parabolic SAR indicator strategy
+4.RSI strategy
+
+
+https://www.mql5.com/en/articles/1509
+https://raw.githubusercontent.com/nicomengual/firstrobot/master/rnmSonicRobot.mql4 (no ace nada)
+https://code.tutsplus.com/tutorials/create-a-algorithm-trading-robot-the-basics-of-writing-a-expert-advisor-in-mql4--cms-27984                                              (sma base)
+http://forex.minerasoft.com.br/?d=EA (1 min simple scalper,tomados otros dos )
+https://www.mt5traders.com/neuro-scalper-metatrader-4-forex-indicator/
+
+
+https://github.com/alexanvl/QuantumShaolin
+https://docs.mql4.com/indicators/isar
+https://book.mql4.com/samples/icustom
+
+
